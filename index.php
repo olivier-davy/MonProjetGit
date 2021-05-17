@@ -41,9 +41,26 @@
   </head>
 
     <title>Mon Projet Git</title>
+
+    <ul class="list-group">
+      <li class="list-group-item">An item</li>
+      <li class="list-group-item">A second item</li>
+      <li class="list-group-item">A third item</li>
+      <li class="list-group-item">A fourth item</li>
+      <li class="list-group-item">And a fifth one</li>
+    </ul>
+    <ul class="list-group"> 
+      <li class="list-group-item">An item</li>
+      <li class="list-group-item">A second item</li>
+      <li class="list-group-item">A third item</li>
+      <li class="list-group-item">A fourth item</li>
+      <li class="list-group-item">And a fifth one</li>
+    </ul>
+
     <p>Changement de CODE Changement de CODE Changement de CODE Changement de CODE Changement de CODE Changement de CODE Changement de CODE
     Changement de CODE Changement de CODE Changement de CODE Changement de CODE Changement de CODE Changement de CODE Changement de CODE 
     Changement de CODE Changement de CODE Changement de CODE Changement de CODE Changement de CODE Changement de CODE Changement de CODE</p>
+
   </head>
   <body>
     <h1 class="display-4 text-center my5">Mon Projet Git</h1>
