@@ -41,15 +41,20 @@
   </head>
 
     <title>Mon Projet Git</title>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore fugiat rem corporis perferendis reprehenderit expedita, 
-    possimus totam veniam ipsa amet magnam blanditiis fugit neque. Quos, error dignissimos. Consequuntur, cumque. Quos minus dolor maiores,
-     eos qui voluptatibus error iusto doloremque illo a excepturi fugit, minima eum quod nobis! Aliquid dolor perferendis deleniti earum?
-      Adipisci impedit eos itaque quis incidunt quos delectus voluptatem ratione quaerat ea inventore quas sint quidem, dignissimos temporibus
-       molestiae assumenda nulla laudantium voluptatum earum qui mollitia nostrum. Asperiores magni amet minus voluptatem ex saepe suscipit 
-       itaque eaque? Minus est qui mollitia voluptatum. Deserunt delectus fugiat eum hic nisi sequi itaque repellendus accusamus qui voluptate
-        tempore exercitationem earum ut eaque minus praesentium, dolores modi aperiam. Vero soluta alias iusto quidem quo est reiciendis neque,
-         deleniti omnis. Inventore mollitia voluptatum accusamus possimus dolores ipsam aliquam, sint error aperiam laboriosam quisquam nulla 
-             itaque vel necessitatibus in, eveniet quisquam tenetur eum consequatur ipsam odio modi ad facere.</p>
+    <ul class="list-group">
+      <li class="list-group-item">An item</li>
+      <li class="list-group-item">A second item</li>
+      <li class="list-group-item">A third item</li>
+      <li class="list-group-item">A fourth item</li>
+      <li class="list-group-item">And a fifth one</li>
+    </ul>
+    <ul class="list-group"> 
+      <li class="list-group-item">An item</li>
+      <li class="list-group-item">A second item</li>
+      <li class="list-group-item">A third item</li>
+      <li class="list-group-item">A fourth item</li>
+      <li class="list-group-item">And a fifth one</li>
+    </ul>
   </head>
   <body>
     <h1 class="display-4 text-center my5">Mon Projet Git</h1>
